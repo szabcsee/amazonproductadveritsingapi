@@ -17,7 +17,7 @@ isbnNumber = "a book's ISBN number"
 
 params = {
 	:Service => "AWSECommerceService",
-	:AssociateTag => "678832359350",
+	:AssociateTag => "number",
 	:Operation => "ItemLookup",
 	:IdType => "ISBN",
 	:SearchIndex => "Books",
